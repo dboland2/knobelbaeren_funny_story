@@ -18,8 +18,8 @@ Name: Daniel Boland (dboland2)
 Link to PR for other team: https://github.com/SophCollenburg/Icebreaker--SER316/pull/9
 
 
-Name:
-Link to PR for other team:
+Name: Shawn Weaver (srweave3)
+Link to PR for other team: https://github.com/djgoulet/raketenbiber-story
 
 
 Name:
